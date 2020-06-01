@@ -1,10 +1,12 @@
-<?php//solo usamos el de apertura
+<?php
+    //solo usamos el de apertura
 
     //define("SERVERURL","http://localhost/learning_mvc_php/mvc/WE_PAY/");
     //define("SERVERURL","http://localhost/learning_mvc_php/mvc/WE_PAY/");
 
     
-    const SERVERURL="http://localhost/learning_mvc_php/mvc/WE_PAY/";
+    
+    const SERVERURL = "http://localhost/prestamos/we_pay";
 
     const COMPANY = "SISTEMA WE PAY";
     
