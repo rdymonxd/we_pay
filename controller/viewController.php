@@ -7,7 +7,7 @@
         # Controlador para obtenear la plantilla
 
         public function get_template_controller(){
-            return require_once "./view/template.php";
+            return require_once "./views/template.php";
         }
         # Controlador para obtenear la vista
         public function get_view_controller(){
@@ -21,4 +21,5 @@
         }
 
     }
+    
 ?>
